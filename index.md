@@ -4,5 +4,5 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 - 💼 any freelance work? do reach, [email](mailto:zitansmail@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
-- 📫 @googleScholar - https://scholar.google.com/citations?user=ElqUIRMAAAAJ&hl=en
-- 📫 @website - www.zitansmail.com
+- 📫  [@googleScholar](https://scholar.google.com/citations?user=ElqUIRMAAAAJ&hl=en) - 
+- 📫  [@website](www.zitansmail.com) - 
